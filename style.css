@@ -15,12 +15,16 @@ body {
     justify-content: center;
 }
 
-
 .header-logo {
     color: #f9faf8;
     font-size: 24px;
     font-weight: 700;
 }
+
+.header-link :hover {
+    color: #8b8989;
+}
+
 
 .header-section {  
     width: 900px;
