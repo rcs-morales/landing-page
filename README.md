@@ -1,5 +1,7 @@
 # landing-page
 
+Created a web page with designs provided by the Odin Project.
+
 Credits:
 Photo by <a href="https://unsplash.com/@nickmorrison?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nick Morrison</a> on <a href="https://unsplash.com/photos/macbook-pro-near-white-open-book-FHnnjk1Yj7Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 Photo by Christina Morillo: https://www.pexels.com/photo/three-woman-in-front-of-laptop-computer-1181233/
